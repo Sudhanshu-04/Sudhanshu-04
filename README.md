@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sudhanshu-04
 - 👀 I’m interested in Machine learning and Artificial Intelligence.
 - 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on rea life good projects
+- 💞️ I’m looking to collaborate on real life good projects
 - 📫reach me at sud.nib@gmail.com
 
 <!---
